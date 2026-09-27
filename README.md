@@ -18,6 +18,6 @@ CHURNGUARD AI is an end-to-end Machine Learning classification project designed 
 
 ```text
 CHURNGUARD-AI/
-├── churn_prediction.py    # Complete Python ML pipeline
+├── python_script.py    # Complete Python ML pipeline
 ├── requirements.txt       # Project dependencies
 └── README.md              # Project documentation
